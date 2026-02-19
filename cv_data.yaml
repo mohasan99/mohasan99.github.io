@@ -1,15 +1,15 @@
-name: Ali Hasan
+name: Mohammed Hasan
 image: "images/profile.png"
-title: DevOps Engineer
+title: DevSecOps Engineer
 summary: >
-  Detail-oriented DevOps Engineer with expertise in automation, cloud infrastructure,
+  Detail-oriented DevSecOps Engineer with expertise in automation, cloud infrastructure,
   and backend development. Experienced in CI/CD, Terraform, Kubernetes, and cloud security,
-  with strong scripting skills in Python and Java. Adept at optimizing workflows,
+  with strong scripting skills in Python and C#. Adept at optimizing workflows,
   enhancing system reliability, and ensuring compliance in Agile environments.
   
 address: Stockholm, Sweden
-github: "https://github.com/ali-hasan-mahdi"
-linkedin: "https://www.linkedin.com/in/ali-hasan-mahdi"
+github: https://github.com/mohasan99
+linkedin: https://www.linkedin.com/in/mohammed-hasan-477275293/
 
 skills:
   - Team Collaboration
@@ -22,7 +22,6 @@ skills:
 
 tech_stack:
   "🖥️ Programming":
-    - Java
     - Python
     - C#
     
@@ -40,7 +39,6 @@ tech_stack:
     
   "⚙️ Backend":
     - Python
-    - Java
     - C#
     
   "📡 API & Integration":
@@ -52,6 +50,7 @@ tech_stack:
     
   "🛠️ DevOps & Cloud":
     - Azure
+    - AWS
     - CI/CD 
     - Docker
     - Kubernetes
@@ -73,48 +72,33 @@ languages:
   - Arabic (Proficient)
 
 experience:
-  - position: DevOps Engineer Intern
-    company: SJ AB
-    start_date: "Dec 2024"
-    end_date: "Apr 2025"
-    description: >
-      Contributed to enhancing Azure compliance through the development of Python and Terraform-based policies.
-      Responsibilities included automating policy enforcement, assessing compliance with NIS2, GDPR, ISO27001, and PCI/DSS standards,
-      and optimizing cloud governance.
-    tech_stack: "Azure DevOps | CI/CD | Python | Terraform | Azure Policies"
+ - position: Owner & Lead Therapist
+   company: Recovery Room Ab
+   start_date: "Dec 2020"
+   end_date: "Jan 2026"
+   description: >
+    Founded and managed a private rehabilitation clinic, overseeing all business operations, 
+    strategic planning, and clinical service delivery. Developed high-precision 
+    treatment protocols while maintaining strict regulatory compliance and documentation 
+    standards for client safety and data privacy.
     
-  - position: Store Assistant
-    company: MRC Bemanning
-    start_date: "May 2023"
-    end_date: "Present"
-    description: >
-      Managed inventory control, restocking, and cashier operations while ensuring excellent customer service
-      and a smooth retail experience.
-    
-  - position: Sales Associate
-    company: Lidl Ekero
-    start_date: "Apr 2018"
-    end_date: "Apr 2022"
-    description: >
+ - position: Sales Associate
+   company: Lidl Ekero
+   start_date: "Jun 2020"
+   end_date: "May 2022"
+   description: >
       Oversaw inventory management and cashier transactions, maintained product quality,
       and delivered superior customer service.
     
-  - position: Hockey Coach
-    company: Sweden Hockey Institute & Ekero IK
-    start_date: "Jan 2014"
-    end_date: "Jan 2018"
-    description: >
-      Designed and executed structured training sessions, mentored athletes, and collaborated with fellow coaches and parents
-      to foster skill development and teamwork.
     
 education:
-  - degree: DevOps Engineer
-    institution: Nackademin
+  - degree: DevSecOps Engineer
+    institution: KYH
     relevant_courses: >-
-      Programming (Python, Java) |
-      Object-Oriented Programming (Python, Java) |
+      Programming (Python, C#) |
+      Object-Oriented Programming (Python, C#) |
       Automation: CI/CD, Pipelines, Azure DevOps, Jenkins, Ansible, Terraform |
-      Infrastructure: Microsoft Azure, Kubernetes, Docker, Windows Server, Linux, Active Directory |
+      Infrastructure: Microsoft Azure, AWS, Kubernetes, Docker, Windows Server, Linux, Active Directory |
       Networking & Security: IT Security & Vulnerability Analysis, LAN |
       Databases: Microsoft SQL Server |
       Agile & Collaboration: Scrum, Agile Methodologies, Jira, Confluence 
